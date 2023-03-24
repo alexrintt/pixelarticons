@@ -86,7 +86,7 @@ Use the issues tab to discuss new features and bug reports.
 
 ## How it works
 
-First we check [if there's a new update available](https://github.com/alexrintt/pixelarticons/blob/master/autoupdate/lib/has_new_release.dart) from the [pixel art icons repository](https://github.com/halfmage/pixelarticons):
+First we check [if there's a new update available](https://github.com/alexrintt/pixelarticons/blob/main/autoupdate/lib/has_new_release.dart) from the [pixel art icons repository](https://github.com/halfmage/pixelarticons):
 
 https://github.com/alexrintt/pixelarticons/blob/96354a3b1e067484c743e016282c38ef6b03cf57/autoupdate/lib/has_new_release.dart#L8-L10
 
@@ -122,7 +122,7 @@ https://github.com/alexrintt/pixelarticons/blob/96354a3b1e067484c743e016282c38ef
 
 ## Run locally
 
-To run locally, follow the same steps as the [`flow.yaml` action](https://github.com/alexrintt/pixelarticons/blob/master/.github/workflows/flow.yaml).
+To run locally, follow the same steps as the [`flow.yaml` action](https://github.com/alexrintt/pixelarticons/blob/main/.github/workflows/flow.yaml).
 
 The working directory is the repository root.
 
@@ -151,7 +151,7 @@ Please fill a issue to see what is going wrong and do not worry: all current rel
 <p align="center">
   <sub>Copyright © 2022-present, Alex Rintt.</sub>
 </p>
-<p align="center">Pixel Art Icons Dart Wrapper <a href="https://github.com/alexrintt/pixelarticons/blob/master/LICENSE">is MIT licensed </a></p>
+<p align="center">Pixel Art Icons Dart Wrapper <a href="https://github.com/alexrintt/pixelarticons/blob/main/LICENSE">is MIT licensed </a></p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51419598/152648448-82403d04-c90a-44e7-ae9c-797228864985.png" width="35" />
 </p>
