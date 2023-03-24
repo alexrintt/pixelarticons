@@ -1,0 +1,18 @@
+name: pixelarticons_autoupdate
+description: "Collection of scripts to update repository package latest version"
+version: 0.3.1
+homepage: https://github.com/alexrintt/pixelarticons
+repository: https://github.com/alexrintt/pixelarticons
+issue_tracker: https://github.com/alexrintt/pixelarticons/issues
+documentation: https://github.com/alexrintt/pixelarticons
+publish_to: none
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  http: ^0.13.5
+  yaml: ^3.1.1
+
+dev_dependencies:
+  lint: ^1.7.2
