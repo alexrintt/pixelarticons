@@ -1,3 +1,19 @@
+## v0.5.0
+
+<sub>_Automatic package roolup `v0.5.0` of Pixel Art Icons `v1.8.0`, source release available at https://github.com/halfmage/pixelarticons/releases/tag/v1.8.0 published at 2024-03-29T08:23:39Z._</sub>
+
+- Merge pull request #27 from halfmage/v1.8  76eabe5
+- Updated np package  2dd1598
+- #23 #24 Added mastodon and github icons  a48158d
+- #18 Update visible icon  c97f3a4
+- #21 Fix typo sort-alphabetic  e941b82
+- Added new lightbulb icons  e5aa078
+- add new light icon  0ef4d62
+
+https://github.com/halfmage/pixelarticons/compare/v1.7.0...v1.8.0
+
+<sub>This `CHANGELOG.md` was automatic generated from `alexrintt/pixelarticons/autoupdate`.</sub>
+
 ## v0.4.0
 
 <sub>_Automatic package roolup `v0.4.0` of Pixel Art Icons `v1.7.0`, source release available at https://github.com/halfmage/pixelarticons/releases/tag/v1.7.0 published at 2022-08-20T13:02:14Z._</sub>
