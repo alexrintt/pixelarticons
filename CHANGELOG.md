@@ -1,3 +1,17 @@
+## v0.6.0
+
+<sub>_Automatic package roolup `v0.6.0` of Pixel Art Icons `v1.8.1`, source release available at https://github.com/halfmage/pixelarticons/releases/tag/v1.8.1 published at 2024-04-15T09:34:44Z._</sub>
+
+- Added svgtofontrc to npmignore  8c723cb
+- Fix naming dashboard  6220659 #29 
+- Update readme  6aff350
+- Merge branch &#39;master&#39; into feat/generate-font  56de03a
+- Generate font files with svgtofont  7bdddae
+
+https://github.com/halfmage/pixelarticons/compare/v1.8.0...v1.8.1
+
+<sub>This `CHANGELOG.md` was automatic generated from `alexrintt/pixelarticons/autoupdate`.</sub>
+
 ## v0.5.0
 
 <sub>_Automatic package roolup `v0.5.0` of Pixel Art Icons `v1.8.0`, source release available at https://github.com/halfmage/pixelarticons/releases/tag/v1.8.0 published at 2024-03-29T08:23:39Z._</sub>
